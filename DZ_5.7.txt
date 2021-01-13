@@ -1,0 +1,3 @@
+Gazprom ПАО 10000 5000
+Rosneft ПАО 20000 25000
+X5ReteilGroup ПАО 15000 7500
